@@ -21,4 +21,18 @@ As a professional member of [ACM](https://www.acm.org/), [IEEE](https://www.comp
 
 Selected Papers
 ======
+* Zhide Zhou, He Jiang, Lei Yao, Shaolin Wang, Haoyang Che, Ying Gu, Multi-Demand Forecasting for Electric Vehicle Charging Stations under Time-of-Use Strategy via Attention-based Deep Neural Network, IEEE Internet of Things Journal, 2025.
+* Zhide Zhou, Zhilei Ren, Guojun Gao, He Jiang, An empirical study of optimization bugs in GCC and LLVM, Journal of Systems and Software (JSS), 174, 110884, 2021.
+* Zhide Zhou, He Jiang, Zhilei Ren, Yuting Chen, Lei Qiao, LocSeq: Automated Localization for Compiler Optimization Sequence Bugs of LLVM, IEEE Transactions on Reliability (TR), 2022.
+* He Jiang, Zhide Zhou, Zhilei Ren, Jingxuan Zhang, Xiaochen Li, CTOS: Compiler Testing for Optimization Sequences of LLVM, IEEE Transactions on Software Engineering (TSE), vol. 48, no. 7, pp. 2339-2358, 1 July 2022.
+* Junyan Qian, Zhide Zhou, Tianlong Gu, Lingzhong Zhao, Liang Chang, Optimal Reconfiguration of High-performance VLSI Subarrays with Network Flow, IEEE Transactions on Parallel and Distributed Systems (TPDS), 27, 12, 3575-3587, 2016.
+* Haoxin Tu, Zhide Zhou, He Jiang, Imam Nur Bani Yusuf, Yuxian Li and Lingxiao Jiang, Isolating Compiler Bugs by Generating Effective Witness Programs with Large Language Models, IEEE Transactions on Software Engineering (TSE), vol. 50, no. 7, pp. 1768-1788, July 2024.
+* Haibo Wang, Zhide Zhou, Xiaochen Li, Shikai Guo, He Jiang, Learning to Accelerate Autonomous Driving System Testing, IEEE Transactions on Reliability (TR), 2025.
+* Yue Wang, Zhide Zhou, Zhilei Ren, Dong Liu, He Jiang, A Comprehensive Study of WebAssembly Runtime Bugs, 2023 IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), Taipa, Macao, 2023, pp. 355-366.
+* Le Chen, Zhide Zhou, Xiaochen Li, He Jiang, Detecting JavaScript Transpiler Bugs with Grammar-guided Mutation, 2023 IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), Taipa, Macao, 2023, pp. 558-568.
+* Tang Yixuan, He Jiang, Zhide Zhou, Xiaochen Li, Zhilei Ren, Detecting Compiler Warning Defects Via Diversity-Guided Program Mutation, IEEE Transactions on Software Engineering (TSE), vol. 48, no. 11, pp. 4411-4432, 1 Nov. 2022.
+* Haoxin Tu, He Jiang, Zhide Zhou, Yixuan Tang, Zhilei Ren, Lei Qiao, Detecting C++ Compiler Front-End Bugs via Grammar Mutation and Differential Testing, IEEE Transactions on Reliability (TR), vol. 72, no. 1, pp. 343-357, March 2023.
+* Yukai Ping, He Jiang, Xingxiang Liu, Zhenyang Zhao, Zhide Zhou, and Xin Chen, Latency-Based Inter-Operator Scheduling for CNN Inference Acceleration on GPU, IEEE Transactions on Services Computing (TSC), vol. 17, no. 1, pp. 277-290, Feb. 2024.
+* Shikai Guo, He Jiang, Zhihao Xu, Xiaochen Li, Zhilei Ren, Zhide Zhou, Rong Chen, Detecting Simulink compiler bugs via controllable zombie blocks mutation, Proceedings of the 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (FSE), 1061-1072, 2022.
+
 
