@@ -11,7 +11,7 @@ Dr. Zhide Zhou is currently a Postdoctoral Researcher at the School of Software,
 
 Pior to that, he obtained his Ph.D. in Software Engineering from the [OSCAR Lab](http://oscar-lab.org/eng/index.htm), [Dalian University of Technology](https://en.dlut.edu.cn/), , where he was supervised by Prof. [He Jiang](https://faculty.dlut.edu.cn/jianghe/zh_CN/index.htm). 
 
-As a professional member of [ACM ((Association for Computing Machinery)](https://www.acm.org/), [IEEE (Institute of Electrical and Electronics Engineers)](https://www.computer.org/), and [CCF (China Computer Federation)](https://www.ccf.org.cn/), his research interests center on Software Analysis and Testing
+As a professional member of [ACM](https://www.acm.org/), [IEEE](https://www.computer.org/), and [CCF (China Computer Federation)](https://www.ccf.org.cn/), his research interests center on Software Analysis and Testing
 , with specific focuses on:
 * Compiler testing and validation
 * Automated software fault localization techniques
