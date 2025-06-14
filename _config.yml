@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Zhide Zhou's Homepage"
+title                    : "Homepage for Zhide Zhou (周志德)"
 title_separator          : "-"
 name                     : &name "Zhide Zhou"
 description              : &description "A Researcher for Software!"
